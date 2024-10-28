@@ -1,0 +1,47 @@
+name: GreenWave
+description: OOP Polymorphism group self create mobile app which emphasize on knowledge about protecting our environment.
+
+version: 1.0.1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/Grenn Wave.png
+    - assets/images/How to Reduce Energy Consumption.png
+    - assets/images/Planttree (1).png
+    - assets/images/co2_emission_chart.png
+    - assets/images/LAHoliday1.png
+    - assets/images/KKKLExpress.png
+    - assets/images/Mayang Sari.png
+    - assets/images/SuperNice.png
+    - assets/images/AirAsia.png
+    - assets/images/Emirates.png
+    - assets/images/MASwings.png
+    - assets/images/SingaporeAirlines.png
+    - assets/images/QatarAirways.png
+    - assets/images/KLMAP.png
+    - assets/images/Olivia Wilson (1).png
+    - assets/images/Olivia Wilson (2).png
+    - assets/images/Olivia Wilson (3).png
+    - assets/images/Untitled design (1).png
+    - assets/images/Untitled design (2).png
+    - assets/images/Untitled design (3).png
+    - assets/images/Untitled design.png
+    - assets/images/Bus.png
+    - assets/images/ETS (1).png
+    - assets/images/LRT.png
+    - assets/images/Airplane (1).png
+    - assets/images/malaysia-airlines.png
+    - assets/images/GreenWave (400 x 200 px) (2).png
+  uses-material-design: true
